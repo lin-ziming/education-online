@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.roaringbitmap:RoaringBitmap:0.5.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

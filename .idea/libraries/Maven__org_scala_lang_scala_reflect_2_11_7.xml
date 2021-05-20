@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang:scala-reflect:2.11.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

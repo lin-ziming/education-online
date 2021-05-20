@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com_atguigu_sparkstreaming/com_atguigu_sparkstreaming.iml" filepath="$PROJECT_DIR$/com_atguigu_sparkstreaming/com_atguigu_sparkstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com_atguigu_warehouse/com_atguigu_warehouse.iml" filepath="$PROJECT_DIR$/com_atguigu_warehouse/com_atguigu_warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-online.iml" filepath="$PROJECT_DIR$/education-online.iml" />
+    </modules>
+  </component>
+</project>

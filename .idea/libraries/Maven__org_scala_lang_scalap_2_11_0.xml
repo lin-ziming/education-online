@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang:scalap:2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/scala-lang/scalap/2.11.0/scalap-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

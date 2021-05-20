@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: javax.transaction:jta:1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/javax/transaction/jta/1.1/jta-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/javax/transaction/jta/1.1/jta-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

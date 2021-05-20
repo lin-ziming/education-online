@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.jersey.core:jersey-common:2.22.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

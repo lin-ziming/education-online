@@ -1,0 +1,3 @@
+# Project exclude paths
+/com_atguigu_sparkstreaming/target/
+/com_atguigu_warehouse/target/

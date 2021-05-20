@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: javax.jdo:jdo-api:3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/javax/jdo/jdo-api/3.0.1/jdo-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../CGB2007/mavenRepository20200829/javax/jdo/jdo-api/3.0.1/jdo-api-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
